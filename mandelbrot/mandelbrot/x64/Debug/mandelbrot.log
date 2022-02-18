@@ -1,0 +1,9 @@
+﻿  mandelbrot.cpp
+C:\Users\kaleb\source\repos\cmp202-prac1\mandelbrot\mandelbrot\mandelbrot.cpp(161,27): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+mandelbrot.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:REF' specification
+  mandelbrot.vcxproj -> C:\Users\kaleb\source\repos\cmp202-prac1\mandelbrot\x64\Debug\mandelbrot.exe
